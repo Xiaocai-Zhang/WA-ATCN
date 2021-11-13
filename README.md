@@ -12,3 +12,9 @@ python3 script/test_m50.py
 python3 script/test_i280.py
 python3 script/test_ny.py
 ```
+## Train Models
+```
+python3 script/train_m50.py
+python3 script/train_i280.py
+python3 script/train_ny.py
+```
