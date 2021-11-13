@@ -14,7 +14,7 @@ python3 script/test_m50.py
 python3 script/test_i280.py
 python3 script/test_nyc.py
 ```
-## Train Models
+## Training Models
 You can run the following commands to train models.
 ```
 python3 script/train_m50.py
