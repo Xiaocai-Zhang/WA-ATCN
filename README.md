@@ -1,5 +1,6 @@
 # WA-ATCN for Traffic Time-Seris Forecasting
 ## Setup
+Code was developed and tested on Ubuntu 18.04 with Python 3.6 nnd TensorFlow 2.5.0
 ```
 python3 -m venv env
 source env/bin/activate
