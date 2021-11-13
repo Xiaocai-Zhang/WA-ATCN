@@ -7,7 +7,8 @@ source env/bin/activate
 cd env
 pip3 install -r requirements.txt
 ```
-## Test
+## Running Models
+You can run the following commands to replicate the results.
 ```
 python3 script/test_m50.py
 python3 script/test_i280.py
