@@ -10,11 +10,11 @@ pip3 install -r requirements.txt
 ```
 python3 script/test_m50.py
 python3 script/test_i280.py
-python3 script/test_ny.py
+python3 script/test_nyc.py
 ```
 ## Train Models
 ```
 python3 script/train_m50.py
 python3 script/train_i280.py
-python3 script/train_ny.py
+python3 script/train_nyc.py
 ```
