@@ -14,6 +14,7 @@ python3 script/test_m50.py
 python3 script/test_i280.py
 python3 script/test_nyc.py
 ```
+The results are saved under the "./para/" folder.
 ## Training Models
 You can run the following commands to train models.
 ```
@@ -21,4 +22,4 @@ python3 script/train_m50.py
 python3 script/train_i280.py
 python3 script/train_nyc.py
 ```
-The results are saved under teh './para/' folder.
+
